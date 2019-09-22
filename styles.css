@@ -1,0 +1,25 @@
+  li {
+    font-family: Arial,sans-serif;
+    text-align: justify;
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 15px;
+
+  }
+  h1 {
+    color: grey;
+    text-align: justify;
+    border: 10px solid blue;
+  }
+  table{
+    border: 2px solid black;
+    width: 20%;
+    border-collapse: collapse;
+  }
+ td,th,tr {
+   border: 1px solid black;
+   padding: 5px;
+   text-align: center;
+ }
